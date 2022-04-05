@@ -1,0 +1,12 @@
+{
+	"name": "SCAD Theme",
+	"description": "Theme for SCAD Studies",
+	"author": "Richard Bramley",
+	"version": "1.0.0",
+	"license": "MIT",
+	"tooltips": {
+		"title": "Page title",
+		"introduction": "Page instroduction",
+		"main_text": "The text's main text",
+	}
+}

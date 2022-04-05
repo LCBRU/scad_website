@@ -1,0 +1,22 @@
+title: What is SCAD
+
+-
+
+date: 2022-03-24 15:31:29
+
+-
+
+text_main: <iframe width="560" height="315" src="https://www.youtube.com/embed/fyZk9w6eVRs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**SCAD** is the abbreviation for **Spontaneous Coronary Artery Dissection**. It is a rare condition that occurs when there is a tear in the wall of an artery supplying the heart. This can lead to a heart attack, as the blood supply to the heart is interrupted. The name SCAD can be broken down as follows:
+
+- **Spontaneous**: there is no injury, apparent disease or other direct cause for the dissection of the coronary artery, it appears to "just happen".
+- **Coronary**: dissections can happen in other parts of the body, but when it happens in a blood vessel supplying the heart muscle tissue, it can cause a heart attack.
+- **Artery**: Arteries supply blood (carrying oxygen) to a muscle or organ of the body, veins carry the blood back to the heart.
+- **Dissection**: the technical term for separation of the layers of the blood vessel wall
+
+![](scad-diagram.png)
+
+SCAD can present in different ways:
+
+In some cases there is a visible **dissection flap** with a communication between the part of the artery supplying blood to the heart, and the split in the wall. In other cases this communication is not seen but there is an **intramural haematoma**, where the artery wall is damaged and a collection of blood leaks into the tissue. This causes a swelling which blocks the blood flow.

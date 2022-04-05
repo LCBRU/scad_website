@@ -1,0 +1,11 @@
+title: Pregnancy and SCAD
+
+-
+
+date: 2022-03-29 12:43:38
+
+-
+
+text_main: Pregnancy is known to be a risk factor for SCAD. Little is known about the risks of pregnancy in patients who have previously had SCAD, though this is a topic currently under study. If you are contemplating a pregnancy after a SCAD event you should get in touch with your own cardiologist to discuss your own specific circumstances. We would be happy to advise via the NHS clinic in Leicester should a further opinion be required.
+
+In the meantime, see [this Article](http://www.onlinejacc.org/content/70/4/426) Published in the Journal of the American College of Cardiology on SCAD in pregnancy.

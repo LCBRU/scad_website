@@ -1,0 +1,21 @@
+title: ITV News - New trial into potentially deadly 'heart attack' condition affecting young women
+
+-
+
+date: 2017-10-25 12:00:00
+
+-
+
+tags: news
+
+-
+
+text_main: ![](itv-news.png)
+
+In a recent report ITV news have covered the story of Rebecca Breslin, a SCAD survivor who has, through tremendous effort, has collaborated with the University of Leicester to help initiate a research programme. Launching on 29th February, the new study aims to gain insight into the underlying mechanisms behind spontaneous coronary artery dissection. A better understanding of this disease may help to prevent recurrence, which is a major concern for those who have suffered a SCAD. 
+
+Find out more and watch the video at [this link](http://www.itv.com/news/2016-02-29/new-trial-into-potentially-deadly-condition-that-affects-otherwise-healthy-women/).
+
+-
+
+author: SCAD Admin

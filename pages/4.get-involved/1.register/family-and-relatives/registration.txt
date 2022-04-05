@@ -1,0 +1,79 @@
+title: Family & Relatives
+
+-
+
+date: 2022-03-31 10:05:55
+
+-
+
+text: If someone close to you has had a Spontaneous Coronary Artery Dissection, and you would be interested in helping us with some of the research we are doing, then please fill out the form below and we will get in touch as soon as possible. Filling out this form does not mean that you are obliged to participate, it is just a way of getting more information.
+
+At present we are not doing any specific studies relating to family members and therefore we may not involve you in research immediately, but as we learn more about genetics in SCAD we may well want to study unaffected family members so it is useful to have your details on our database.
+
+<div class="alert alert-warning" role="alert">
+  No clinical history please
+</div>
+
+<form action="" method="post" class="container">
+  <input type="hidden" name="registration_type" value="family_and_relatives">
+  <div class="form-row justify-content-center">
+    <div class="form-group required col-sm-4">
+      <label for="your_first_name">Your Name</label>
+      <input type="text" class="form-control" id="your_first_name" name="your_first_name" placeholder="Your First Name" required>
+    </div>
+    <div class="form-group col-sm-4 offset-sm-1">
+      <label for="your_last_name">Your Last Name</label>
+      <input type="text" class="form-control" id="your_last_name" name="your_last_name" placeholder="Your Last Name">
+    </div>
+  </div>
+  <div class="form-row justify-content-center">
+    <div class="form-group required col-sm-9">
+      <label for="relationship">Your relationship to the person who has suffered from SCAD</label>
+      <input type="text" class="form-control" id="relationship" name="relationship" placeholder="Your relationship to SCAD sufferer" required>
+    </div>
+  </div>
+  <div class="form-row justify-content-center">
+    <div class="form-group required col-sm-4">
+      <label for="email">Email Address</label>
+      <input type="text" class="form-control" id="email" name="email" placeholder="Email Address" required>
+    </div>
+    <div class="form-group required col-sm-4 offset-sm-1">
+      <label for="your_date_of_birth">Your Date of Birth</label>
+      <input type="date" class="form-control" id="your_date_of_birth" name="your_date_of_birth" placeholder="Your Date of Birth" required>
+    </div>
+    <div class="form-group required col-sm-4">
+      <label for="telephone">Telephone Number</label>
+      <input type="text" class="form-control" id="telephone" name="telephone" placeholder="Telephone Number" required>
+    </div>
+    <div class="form-group col-sm-4 offset-sm-1">
+      <label for="alternative_telephone">Alternative Telephone Number</label>
+      <input type="text" class="form-control" id="alternative_telephone" name="alternative_telephone" placeholder="Alternative Telephone Number">
+    </div>
+    <div class="col-sm-6">
+      <div class="form-group required">
+        <label for="address">Address</label>
+        <textarea class="form-control" id="address" name="address" placeholder="Address" required></textarea>
+      </div>
+      <div class="form-group required">
+        <label for="city">City</label>
+        <input type="text" class="form-control" id="city" name="city" placeholder="City" required>
+      </div>
+      <div class="form-group required">
+        <label for="county">County / Region</label>
+        <input type="text" class="form-control" id="county" name="county" placeholder="County / Region" required>
+      </div>
+      <div class="form-group required">
+        <label for="post_code">Post Code</label>
+        <input type="text" class="form-control" id="post_code" name="post_code" placeholder="Post Code" required>
+      </div>
+      <div class="form-group">
+        <label for="questions">Any questions you have about SCAD research</label>
+        <textarea class="form-control" id="questions" name="questions" placeholder="Any questions you have about SCAD research"></textarea>
+      </div>
+      <div id="recaptcha_placeholder"></div>
+      <div class="form-group">
+        <button type="submit" name="submit" class="btn btn-primary">Submit</button>
+      </div>
+    </div>
+  </div>
+</form>

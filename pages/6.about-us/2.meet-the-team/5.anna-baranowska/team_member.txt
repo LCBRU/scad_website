@@ -1,0 +1,13 @@
+title: Anna Baranowska
+
+-
+
+date: 2022-03-31 11:12:32
+
+-
+
+text: Basic scientist studying pathophysiology of spontaneous coronary artery dissection and coronary artery ectasia.
+
+-
+
+image_photo: ania.png

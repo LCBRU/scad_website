@@ -1,0 +1,11 @@
+title: Professor Gerry McCann
+
+-
+
+date: 2022-03-31 11:11:50
+
+-
+
+text: ## Lead for SCAD Imaging
+
+Prof McCann is a Consultant Cardiologist at Leicester Glenfield Hospital and a specialist in cardiovascular imaging. He is nationally recognised for his expertise in Cardiovascular Magnetic Resonance Imaging and is particularly interested in the study of in-vivo cardiac disease using novel imaging techinques.

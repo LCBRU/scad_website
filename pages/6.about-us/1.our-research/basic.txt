@@ -1,0 +1,48 @@
+title: Our Research
+
+-
+
+date: 2022-03-24 15:37:13
+
+-
+
+text: Our research aims to achieve a better understanding of SCAD by investigating:
+
+- Epidemiology - the study of patterns and causes of diseases in populations. How common is SCAD, who is most likely to suffer and what risk factors are associated with it?
+- Pathophysiology - determining the underlying causes of SCAD on a basic science level.
+- Genetic - how might our DNA effect our risk of SCAD?
+- Management - what is the best way to treat someone who has a SCAD?
+
+We are currently using a variety of means to study this. We collect information via a **patient survey**; this allows us to get information on potential risk factors for SCAD, and also to learn about how this condition is treated across the UK and Europe, symptoms that continue to trouble patients, and recurrence rates. For a proportion of patients we are also collecting **blood samples** in order to study genotypes and biomarkers. Then for a smaller subset of patients we are doing **detailed investigations** including scans, biopsies, and other tests. Even if we only ask you to complete our survey, however, your contribution to the body of knowledge on SCAD is extremely valuable.
+
+As well as our research in Leicester we are collaborating with other centres in the United States, Canada, Brazil, Australia, and across Europe.
+
+Please note that although we are keen to recruit as many research participants as we can, we also see patients clinically on the NHS and you can be seen clinically even if you decide not to take part in the research programme. Conversely, you can be part of the research programme even if your usual follow up is elsewhere.
+
+A recent review about SCAD written by the Leicester team: <http://heart.bmj.com/content/103/13/1043>
+
+Epidemiological data from our collaborators at the Mayo Clinic (Minnesota, USA) is available at <http://circ.ahajournals.org/content/126/5/579.long.>
+
+Our Funding
+
+Our funding is from the [British Heart Foundation](https://www.bhf.org.uk/), [NIHR Rare Diseases Translational Research Collaboration](http://www.nihr.ac.uk/about/rare-diseases-translational-research-collaboration.htm) and from [beatSCAD](http://beatscad.org.uk/). We have also recieved [generous donations from the public](https://www.justgiving.com/campaigns/charity/uniofleicester/SCAD). For regular SCAD related updates please consider signing up for the [BeatSCAD newsletter](http://beatscad.us12.list-manage.com/subscribe?u=3fc3f6bac46fed7fbc61761d5&id=6fcc44d38f).
+
+<div class="container mt-5">
+	<div class="row">
+		<div class="col-4">
+			<a href="https://www.nihr.ac.uk/" target="_blank">
+				<img src="/pages/6.about-us/1.our-research/nihr-logo.gif" alt="">
+			</a>
+		</div>
+		<div class="col-2 offset-1">
+			<a href="https://www.bhf.org.uk/" target="_blank">
+				<img src="/pages/6.about-us/1.our-research/british-heart-foundation.png" alt="">
+			</a>
+		</div>
+		<div class="col-4 offset-1">
+			<a href="http://beatscad.org.uk/" target="_blank">
+				<img src="/pages/6.about-us/1.our-research/beatscad.jpg" alt="">
+			</a>
+		</div>
+	</div>
+</div>

@@ -1,0 +1,19 @@
+title: SCAD & the British Heart Foundation
+
+-
+
+date: 2017-10-25 12:00:00
+
+-
+
+tags: news
+
+-
+
+text_main: <iframe width="560" height="315" src="https://www.youtube.com/embed/RDksDgGUvq0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+The British Heart Foundation have produced a fantastic video highlighting the experiences a SCAD survivor goes through. Click here to read more about this and the inspiring story of the group of SCAD survivors that kickstarted our research in Leicester
+
+-
+
+author: SCAD Admin

@@ -1,0 +1,46 @@
+title: Rehabilitation
+
+-
+
+date: 2022-03-24 15:30:09
+
+-
+
+text: **Cardiac Rehabilitation - content provided by Nikki Gardiner, clinical lead for cardiac and pulmonary rehabilitation, Leicester**
+
+The definition for Cardiac Rehabilitation has been taken from the British Association of Cardiovascular Prevention and Rehabilitation (BACPR); it represents their combined key elements:
+
+> “The coordinated sum of activities required to influence favourably the underlying cause of cardiovascular disease, as well as to provide the best possible physical, mental and social conditions, so that the patients may, by their own efforts, preserve or resume optimal functioning in their community and through improved health behaviour, slow or reverse progression of disease”.
+
+Cardiac rehabilitation improves functional capacity and perceived quality of life whilst also supporting early return to work and the development of self-management skills [1]. This makes cardiac rehabilitation one of the most clinically and cost-effective therapeutic interventions in cardiovascular disease management [2-6].
+
+## Patient Information…
+
+<http://www.cardiac-rehabilitation.net/patient-information.htm>
+
+## Cardiac Rehabilitation Finder…
+
+The link below will enable people to find out where their local Cardiac rehabilitation centres are.
+
+<http://www.cardiac-rehabilitation.net/cardiac-rehab.htm>
+
+## References
+
+1. Yohannes AM, Doherty P, Bundy C, Yalfani A. The long-term benefits of cardiac rehabilitation on depression, anxiety, physical activity and quality of life. Journal of Clinical Nursing 2010; 19(19-20):2806-2813.
+2. Unal B, Critchley JA, Fidan D, Capewell S. Life-years gained from modern cardiological treatments and population risk factor changes in England and Wales, 1981-2000. Am J Public Health 2005 Jan; 95(1):103-8.
+3. Department of Health. Commissioning Pack for Cardiac Rehabilitation. London: Department of Health; 2010. Available from http://www.dh.gov.uk/en/Publicationsandstatistics/Publications/PublicationsPolicyAndGuidance/Browsable/DH_117504.
+4. National Institute for Health and Clinical Excellence. NICE CG48. Secondary prevention in primary and secondary care for patients following a myocardial infarction. London: NICE, May 2007. Available from: http://www.nice.org.uk/CG48.
+5. National Institute for Health and Clinical Excellence. NICE CG94. Unstable Angina and NSTEMI: the early management of unstable angina and non-ST-segment-elevation myocardial infarction. London: NICE, March 2010. Available from www.nice.org.uk/CG94.
+6. National Institute for Health and Clinical Excellence. Commissioning a cardiac rehabilitation service. London NICE, October 2011. Available from: www.nice.org.uk/usingguidance/commissioningguides/cardiacrehabilitation/cardiacrehabilitation.jsp
+
+A recent [article](http://www.sciencedirect.com/science/article/pii/S0828282X16000155) from Canada on a specific rehabilitation programme for SCAD patients
+
+A [study](http://journals.lww.com/jcrjournal/Abstract/2015/09000/Cardiac_Rehabilitation_After_Spontaneous_Coronary.4.aspx) showing that standard cardiac rehabilitation can be helpful in SCAD patients
+
+[Review](http://www.bmj.com/content/351/bmj.h5000) of cardiac rehabilitation in general
+
+Description of a [certification process](https://bjcardio.co.uk/2016/07/development-of-a-uk-national-certification-programme-for-cardiac-rehabilitation-ncp_cr/) for cardiac rehabilitation
+
+[Systematic review](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0177658) of cardiac rehabilitation in general
+
+Assessment of a [web based cardiac rehabilitation programme](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4259912/)

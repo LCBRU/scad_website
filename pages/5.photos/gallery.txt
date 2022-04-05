@@ -1,0 +1,31 @@
+title: Photos
+
+-
+
+date: 2022-03-24 15:36:27
+
+-
+
++gallery: {
+    "time": 1648720358858,
+    "blocks": [
+        {
+            "id": "zxt-RhYuDY",
+            "type": "slider",
+            "data": {
+                "globs": "*.jpg",
+                "width": 1200,
+                "height": 600,
+                "dots": true,
+                "autoplay": true
+            },
+            "tunes": {
+                "layout": {
+                    "stretched": false
+                }
+            }
+        }
+    ],
+    "version": "2.22.2",
+    "automadVersion": "1.10.1"
+}

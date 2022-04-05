@@ -1,0 +1,11 @@
+title: International Patients
+
+-
+
+date: 2022-03-24 15:36:04
+
+-
+
+text: The [ESC-ACCA SCAD study group](https://www.escardio.org/Sub-specialty-communities/Acute-Cardiovascular-Care-Association-(ACCA)/Study-groups/scad) is currently setting up a pan European registry due to start in 2018, as part of the [EURObservational Research Programme (EORP)](https://www.escardio.org/Research/Registries-&-surveys/Observational-registry-programme). Further information will appear here.
+
+In the meantime feel free to access resources on this site; European patients can [register](/get-involved/register/scad-survivors) as part of our reseach programme and complete our patient survey. We are not currently able to include patients from outside Europe. Patients from outside Europe are very welcome to use the resources on this website however. If you have any questions regarding this please contact us on <scad@uhl-tr.nhs.uk>

@@ -1,0 +1,35 @@
+title: BeatSCAD conference 2018
+
+-
+
+date: 2018-04-30 12:00:00
+
+-
+
+tags: news
+
+-
+
+text_main: ## SCAD researchers to present at Beat SCAD Conference
+
+Beat SCAD, the UK charity supporting people with Spontaneous Coronary Artery Dissection (SCAD), is holding its third Conference on Saturday 9 June at the Queen Elizabeth Hospital, Birmingham, where SCAD researchers will present their latest findings. Patients will also be able to ask questions and talk to SCAD experts.
+
+Dr David Adlam, interventional cardiologist at the NIHR Leicester Biomedical Research Centre and lead for the UK SCAD Research Project, will talk about how research across Europe and the world has changed what we know about SCAD. He will also discuss the Genome Wide Association Study, which is researching whether SCAD is an inherited condition.
+
+Dr Alice Wood, clinical research fellow at the NIHR Leicester Biomedical Research Centre, will talk the importance of studying sub-groups, such as men with SCAD and those who have had recurrent SCADs.
+
+Dr Abi Al-Hussaini, consultant cardiologist at the Chelsea & Westminster Hospital and SCAD specialist, will talk about Fibromuscular Dysplasia (FMD), which is increasingly associated with SCAD, as well as pregnancy and SCAD.
+
+And Sally Bee, Heart Healthy Cook and two-time SCAD survivor will talk about what SCAD patients can expect after a SCAD, including understanding the grief process, recovery timelines, managing the family’s expectations, cardiac rehab and more.
+
+The Beat SCAD Trustees will also update delegates on their work during the past year and plans for the future.
+
+At the last Beat SCAD Conference, there were 110 delegates, including 61 SCAD patients, beating the record for the number of UK SCAD patients in one room. The charity is hoping to beat that record this year. <http://beatscad.org.uk/second-beat-scad-conference-sets-new-uk-record-for-scad-survivors>
+
+More information about the Conference agenda and how to book is here <http://beatscad.org.uk/conference-2018>
+
+Beat SCAD is a patient-led charity that aims to support SCAD patients and their families, raise awareness of SCAD and raise funds for research into the condition. For more see <www.beatscad.org.uk>.
+
+-
+
+author: A Wood

@@ -1,0 +1,13 @@
+title: Rebecca Breslin
+
+-
+
+date: 2022-03-31 11:14:23
+
+-
+
+text: ## SCAD survivor and Founder of [BeatSCAD](http://beatscad.org.uk/)
+
+-
+
+image_photo: rebecca-breslin-beatscad.jpg

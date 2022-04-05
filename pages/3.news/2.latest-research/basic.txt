@@ -1,0 +1,27 @@
+title: Latest Research
+
+-
+
+date: 2022-03-24 15:34:43
+
+-
+
+text: [Paper on PCI in SCAD](https://heart.bmj.com/content/early/2021/05/18/heartjnl-2020-318914), published May 2021
+
+[Study on miRNA in SCAD](https://pubmed.ncbi.nlm.nih.gov/33866193/), published 2021
+
+[A study on psychological factors in SCAD](https://pubmed.ncbi.nlm.nih.gov/32500434/), published September 2020
+
+Information on [infarct size after SCAD](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehz895/5695526?searchresult=1), published January 2020.
+
+Article on [intracoronary imaging (optical coherence tomography)](https://www.sciencedirect.com/science/article/pii/S1936878X19301457?via%3Dihub) and how insights from this can help clarify the mechanism of SCAD, published March 2019.
+
+[Article on the genetics of SCAD](https://www.sciencedirect.com/science/article/pii/S0735109718390326) published January 2019. Brief summary [here](https://www.leicesterbrc.nihr.ac.uk/genetic-risk-for-scad/). 
+
+[SCAD position statement](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehy080/4885368) published February 2018.
+
+[Dr Al-Hussaini and Dr Adlam](/about-us/meet-the-team) have recently written a [review article](http://heart.bmj.com/content/heartjnl/early/2017/03/31/heartjnl-2016-310320.full.pdf) which summarises the current state of knowledge about SCAD. Unfortunately copyright issues mean we cannot post the full article here.
+
+The research team have written an [editorial](https://www.pcronline.com/eurointervention/127th_issue/volume-13/number-12/220/editorial-on-characteristics-of-extension-and-de-novo-recurrent-spontaneous-coronary-artery-dissection.html?utm_medium=email&utm_campaign=171208-EIJETOC&utm_content=171208-EIJETOC+CID_449db5161921ccaa4a901b39245465e0&utm_source=email&utm_term=Editorial%20on%20Characteristics%20of%20extension%20and%20de%20novo%20recurrent%20spontaneous%20coronary%20artery%20dissection) commenting on an article about SCAD recurrence and extension.
+
+Analysis of recently acquired research data is in progress and will be published on this website as soon as the articles are available. Topics studied include the genetics of SCAD, the relationship with fibromuscular dysplasia, vascular responses in patients in SCAD as well as the value of different imaging modalities post SCAD. We are also collaborating with other centres overseas on topics including pregnancy related SCAD.

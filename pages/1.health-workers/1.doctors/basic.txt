@@ -1,0 +1,29 @@
+title: Doctors
+
+-
+
+date: 2022-03-24 15:29:52
+
+-
+
+text: ## What is SCAD
+
+![](scad-diagram-cropped.png)
+
+**Spontaneous coronary artery dissection** (SCAD) is a rare cause of acute coronary syndromes including ST-elevation myocardial infarction. Diagnosis is usually at the time of **coronary angiography** and can be aided by adjunctive coronary imaging (in particular with **optical coherence tomography**). However it is important to be aware that a dissection flap is often not visible and coronary appearances may be confused with atherosclerotic coronary disease. SCAD is therefore almost certainly underdiagnosed.
+
+## Refer your patients
+
+***This site is aimed at recruiting SCAD survivors from the UK and EU to this programme.*** Do you have a patient with SCAD? If so please let them know about this research programme and direct them to this site (you can download a leaflet with the site details to the side). Because of the challenges of obtaining ethical approvals from multiple hospitals and jurisdictions, we are reliant on SCAD survivors registering on the site to recruit patients for our research.
+
+It is important to explain to patients that linking a patient to the site will also enable them to **contact other SCAD survivors for mutual support** and that **registering for the research programme is voluntary and not a requirement** to use the site resources and contacts.
+
+Do you wish to discuss a SCAD patient or confirm a SCAD diagnosis with the research team? We are happy to be contacted by clinicians to discuss anonymised cases and help with diagnostic uncertainty. Please contact scad@uhl-tr.nhs.uk in the first instance; please note this is not an emergency service but we will aim to get back to you within the next 2 working days.
+
+***+++ please note that because of the coronavirus pandemic there will be limited capacity to respond to this email; please also contact <david.adlam@uhl-tr.nhs.uk> if your email to the SCAD inbox is not answered +++***
+
+**We are happy to see NHS patients with SCAD from across the UK - if you would like your patient to be seen in clinic please make a referral to Dr David Adlam at Glenfield Hospital, University Hospitals of Leicester.**
+
+## More Information
+
+A review article on SCAD is available [here](http://heart.bmj.com/content/103/13/1043) .The latest epidemiological data from our collaborators at the Mayo Clinic (Minnesota, USA) is available [here](https://www.ahajournals.org/doi/full/10.1161/circulationaha.112.105718). Information to guide clinicians regarding the management of SCAD is limited and largely anecdotal. We have therefore established an international collaboration to study the epidemiology, pathophysiology and management of this condition.

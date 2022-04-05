@@ -1,0 +1,17 @@
+title: NHS Referrals
+
+-
+
+date: 2022-03-24 15:32:21
+
+-
+
+text: This website is primarily about our research programme. We do however also see patients on the NHS from across the UK, whether or not they choose to take part in the research programme.
+
+If you would like an NHS second opinion you will need to ask your current cardiologist or GP to make a referral to Dr David Adlam at Glenfield Hospital, Leicester or to Dr Abtehale Al-Hussaini at the Chelsea and Westminster Hospital in London. Your doctor is also welcome to seek advice via the <SCAD@uhl-tr.nhs.uk> mailbox or by emailing Dr Adlam on <david.adlam@uhl-tr.nhs.uk>
+
+GP referrals for GPs in England now need to be done electronically via the NHS e-referral service, to this clinic: Spontaneous Coronary Artery Dissection (SCAD, FMD and CAE) Service - Cardiology - GH - RWE
+
+Referrals from Scotland, Wales and Northern Ireland are still done by post or fax but are subject to specific funding requirements. 
+
+If you choose to help with our research you may have scans and other tests done at Glenfield but your clinical care will remain in the hands of your NHS doctors. We can see you for research, on the NHS as a clinical patient, or both.

@@ -1,0 +1,9 @@
+title: Life after SCAD
+
+-
+
+date: 2022-03-29 12:43:19
+
+-
+
+text_main: We are currently developing this part of our website, so more information should be coming soon! In the meantime, check out our [Survivor Stories](/patients-and-family/stories) to find out how others have coped with SCAD and what life is like afterwards.

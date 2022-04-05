@@ -1,0 +1,22 @@
+title: About NIHR Leicester BRC
+
+-
+
+date: 2022-03-24 15:38:23
+
+-
+
+text: ## The Leicester Biomedical Research Centre (LBRC)
+
+The Cardiovascular Theme of the Leicester Biomedical Research Centre (LBRC) at [Glenfield Hospital](https://www.leicestershospitals.nhs.uk/aboutus/our-hospitals/glenfield-hospital/) aims to improve the diagnosis, prognosis and treatment of coronary heart disease and hypertension (high blood pressure). The unit provides state-of-the-art facilities, equipment and staff to assist researchers in their complex projects. The LBRC is one of 20 units around England funded by the [National Institute for Health Research (NIHR)](https://www.nihr.ac.uk/), a strategic research funding body within the NHS. The LBRC is a partnership between the [University of Leicester](https://le.ac.uk/) and the [University Hospitals of Leicester NHS Trust](https://www.leicestershospitals.nhs.uk/).
+
+The LBRC leads on groundbreaking new research that will have a direct impact upon patient care.  Joining us in the work of the LBRC, you will help pave the way to improve care for patients with coronary artery and cardiovascular disease.
+
+The improvements will be in areas such as:
+
+1. Finding genes that put you at risk of heart illnesses
+2. Developing new tests to diagnose heart illnesses
+3. Using tests to help doctors and nurses decide how best to treat patients with heart illnesses
+4. Finding new ways to assess how severe a heart illness is likely to become
+
+Find out more on the [Leicester BRC website](https://www.leicesterbrc.nihr.ac.uk/).

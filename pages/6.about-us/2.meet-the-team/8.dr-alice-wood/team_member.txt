@@ -1,0 +1,13 @@
+title: Dr Alice Wood
+
+-
+
+date: 2022-03-31 11:15:47
+
+-
+
+text: ## SCAD research fellow
+
+-
+
+image_photo: alice-wood-picture-for-acca.jpg

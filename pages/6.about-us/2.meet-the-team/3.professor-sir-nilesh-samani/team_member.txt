@@ -1,0 +1,15 @@
+title: Professor Sir Nilesh Samani
+
+-
+
+date: 2022-03-31 11:10:39
+
+-
+
+text: ## Head of Cardiovascular Sciences 
+
+Nilesh Samani is professor of cardiology and head of cardiovascular sciences and the biomedical research unit at Leicester University and Glenfield Hospital. His research interests include the genetics of heart disease and hypertension. Additionally he is a trustee for the Leicester-based charity "Heart Search" which aims to promote awarness of heart disease.
+
+-
+
+image_photo: scad-samani-head-of-department.jpg

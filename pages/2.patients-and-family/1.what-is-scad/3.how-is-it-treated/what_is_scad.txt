@@ -1,0 +1,15 @@
+title: How is it treated?
+
+-
+
+date: 2022-03-29 12:42:35
+
+-
+
+text_main: The primary goal of treatment of SCAD is to open up any blocked arteries to return blood flow to the heart and minimise damage to the heart muscle. You may hear cardiologists say "time is muscle" - and it really is - the sooner treatment is started the better the chance of limiting damage. Treatment will depend on patient circumstances, the type of SCAD event and the severity of the symptoms.
+
+Depending on whether there is good flow in the affected artery, it may be best to leave it to heal by itself. Most patients will have a [coronary angiogram](https://www.nhs.uk/conditions/CoronaryAngiography/Pages/Introduction.aspx),  but the treatment after this will vary:
+
+Conservative - a period of observation together with medication to prevent blood clots and reduce blood pressure if necessary
+Percutaneous coronary intervention (PCI) - an artery is stretched open with a balloon and then sometimes a tube called a stent is implanted to keep it open
+Coronary artery bypass graft (CABG) - this is a surgical procedure to restore blood flow; arteries from the chest wall and veins from the legs are used to bypass any blockages

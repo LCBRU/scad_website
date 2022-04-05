@@ -1,0 +1,19 @@
+title: Register
+
+-
+
+date: 2022-03-24 15:35:44
+
+-
+
+text: If you or someone close to you has suffered from spontaneous coronary artery section, then you could help us to find more about this rare and poorly understood disease by participating in a research project. We are looking for people who have suffered SCAD, healthy volunteers who are not genetically related to SCAD survivors, and in some cases we are also looking for relatives of SCAD survivors.
+
+**If you have previously registered and would like to update your details or have further questions, please email us on <scad@uhl-tr.nhs.uk> rather than re registering.**
+
+If you would like to get involved please click on the appropriate button below.
+
+Please note that as of April 2020 the SCAD research programme has paused because of the coronavirus pandemic; we will resume in a few months. You are still welcome to register but we may take longer than usual to get back to you.
+
+* [SCAD Survivors](/get-involved/register/scad-survivors)
+* [Family](/get-involved/register/family-and-relatives)
+* [Healthy Volunteers](/get-involved/register/healthy-volunteers)

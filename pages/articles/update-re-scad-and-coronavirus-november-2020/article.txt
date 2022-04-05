@@ -1,0 +1,38 @@
+title: Update re SCAD and coronavirus November 2020
+
+-
+
+date: 2020-11-10 09:34:00
+
+-
+
+tags: news
+
+-
+
+text_main: # COVID-19 (the CORONAVIRUS) and SCAD
+First and foremost we would like to send our very best wishes to everyone in the SCAD-community, their friends and families. It has been a challenging time for us all as we enter a new phase of the pandemic with lockdown-2.
+
+Here is some further advice which we hope will help questions from patients with SCAD, their family and friends.
+
+Keep your eye on the advice issued by Public Health England both nationally and for your local area. For most SCAD-survivors (who do not have other major health issues and who have normal or near normal heart function), the risk of complications arising from the COVID-19 infection is likely to be very close to people who have not had SCAD. This is distinct from the high risk patients (the elderly and those with multiple or severe health problems) who are in the higher risk 'shielding' group. Therefore most SCAD patients are low-risk and it is appropriate to follow the advice for the general population.
+
+1. Keep taking your medications. There have been a few inevitable scare stories about some drugs but these are unproven and in the case of ACE-inhibitors (drugs ending in –pril) and ARBs (drugs ending in –sartan), there is good evidence that they are FALSE.
+2. Face-coverings should be worn as per government guidelines but also consider wearing in public places, particularly if you are likely to come within 2 metres of other people.
+3. Maintain good hand hygiene and minimise face-touching
+
+From the perspective of employment, at the time of writing (lockdown-2), current advice is that you should work from home if you can. If this is not possible, all employers should be taking measures appropriate to limiting social contacts and protecting employees with prior health problems. Do not be embarrassed to make your employer or occupational health team aware you have had a SCAD. In most cases this will not change the measures that need to be taken and you will simply need to follow good practice as for the general population.
+
+There will be a small group of SCAD-survivors who either have additional health problems or who have sustained significant heart damage at the time of their SCAD and have reduced heart function. These patients may have received a shielding letter from their GP or a letter from their cardiologist or the SCAD team. These patients should continue to follow the advice for people shielding which at the time of writing is to take 'extra caution' but not to isolate. However do watch carefully for changes as the situation evolves.
+
+We remain happy to give individualised advice. Please use the SCAD information email (SCAD Mailbox <SCAD@uhl-tr.nhs.uk>)
+
+If you do become unwell, isolate (as per advice) and contact NHS 111 or the online NHS 111 service (<https://111.nhs.uk/covid-19>) Stay warm and hydrated and use paracetamol as per the packet guidelines on dose (presuming you do not take this already in other preparations) to control fever.
+
+Best wishes
+
+Dr Dave Adlam and the SCAD team
+
+-
+
+author: A Wood

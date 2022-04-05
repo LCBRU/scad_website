@@ -4,7 +4,8 @@
 
 <script type="text/javascript">
     var recaptchaOnloadCallback = function() {
-        if (!!document.getElementById("subrecaptcha_placeholdermit")) {
+        if (!!document.getElementById("recaptcha_placeholder")) {
+            console.log('goodbye');
             grecaptcha.render('recaptcha_placeholder', {
                 'sitekey' : '<?=recaptch_site_key();?>',
                 'callback' : 'recaptchaCallback',

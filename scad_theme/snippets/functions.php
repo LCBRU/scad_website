@@ -29,6 +29,10 @@ function sender_email(){
   return ini()['sender_email'];
 }
 
+function registrations_path(){
+  return ini()['registrations_path'];
+}
+
 function is_valid_captcha(){
   if(isset($_POST['g-recaptcha-response'])){
     $captcha=$_POST['g-recaptcha-response'];
@@ -46,6 +50,16 @@ function is_valid_captcha(){
   }
 
   return FALSE;
+}
+
+function join_paths() {
+  $paths = array();
+
+  foreach (func_get_args() as $arg) {
+      if ($arg !== '') { $paths[] = $arg; }
+  }
+
+  return preg_replace('#/+#','/',join('/', $paths));
 }
 
 ?>

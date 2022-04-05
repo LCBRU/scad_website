@@ -9,7 +9,9 @@ if(!empty($_SESSION['message'])) {
 }
 
 if(isset($_POST['submit']) && is_valid_captcha()){
-    file_put_contents(escapeshellcmd($_POST['registration_type']).'.jsonl', json_encode($_POST)."\n", FILE_APPEND);
+    $filepath = join_paths(registrations_path(), escapeshellcmd($_POST['registration_type']).'.jsonl');
+
+    file_put_contents($filepath, json_encode($_POST)."\n", FILE_APPEND);
 
     $message = '';
 

@@ -7,8 +7,7 @@
 	<div id="get_involved" class="row text-center">
 		<div class="col">
 			<h2>Information for Clinicians</h2>
-			<p class="d-none">We also have a leaflet intended for clinicians - to explain SCAD, this website, and the research projects we are involved with. <a target="_blank" href="/shared/scad-clinician-a5-leaflet.pdf">Download it here</a></p>
-			<p><a target="_blank" href="/shared/scad-clinician-a5-leaflet.pdf">Download it here</a></p>
+			<p><span class="d-none d-md-block">We also have a leaflet intended for clinicians - to explain SCAD, this website, and the research projects we are involved with. </span><a target="_blank" href="/shared/scad-clinician-a5-leaflet.pdf">Download it here</a></p>
 		</div>
 
 		<div class="col">

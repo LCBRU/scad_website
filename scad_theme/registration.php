@@ -1,12 +1,5 @@
 <?php defined('AUTOMAD') or die('Direct access not permitted!');
     require_once(__DIR__.'/snippets/functions.php');
-session_start();
-
-if(!empty($_SESSION['message'])) {
-    $message = $_SESSION['message'];
-    echo "<div class='alert alert-primary' role='alert'>$message</div>";
-    $_SESSION['message'] = '';
-}
 
 if(isset($_POST['submit']) && is_valid_captcha()){
     $filepath = join_paths(registrations_path(), escapeshellcmd($_POST['registration_type']).'.jsonl');
@@ -29,8 +22,7 @@ if(isset($_POST['submit']) && is_valid_captcha()){
         "From:" . sender_email(),
     );
 
-    $_SESSION['message'] = 'Mail Sent. Thank you we will contact you shortly.';
-    header('Location: '.$_SERVER['PHP_SELF']);
+    header('Location: /get-involved/register/registered');
     die;
 }
 ?>

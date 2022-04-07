@@ -1,5 +1,6 @@
 <?php defined('AUTOMAD') or die('Direct access not permitted!');?>
 <@ snippets/header.php @>
+<@ snippets/message.php @>
 
     <div id="slides" class="carousel slide carousel-fade" data-ride="carousel">
         <div class="carousel-inner">

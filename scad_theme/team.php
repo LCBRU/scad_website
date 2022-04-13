@@ -15,6 +15,9 @@
                 </div>
             </div>
         <@~ end @>
+
+        <@ snippets/share.php @>
+
     </div>
 
 

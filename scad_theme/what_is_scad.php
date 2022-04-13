@@ -29,6 +29,7 @@
             <@~ end @>
         </div>
 
+        <@ snippets/share.php @>
     </article>
 
     <@ snippets/javascript.php @>

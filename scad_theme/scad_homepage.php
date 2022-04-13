@@ -103,55 +103,55 @@
         </div>
     </div>
 
-        <@ newPagelist { 
-            limit: 10,
-            type: 'children',
-            sort: 'date desc',
-            page: @{ ?page | def(1) } 
-        } @>
+    <@ newPagelist { 
+        limit: 10,
+        type: 'children',
+        sort: 'date desc',
+        page: @{ ?page | def(1) } 
+    } @>
 
-        <@~ with "/articles" @>
-            <@~ foreach in pagelist @>
-                <@ snippets/article.php @>
-            <@~ end @>
-
-            <nav aria-label="Page navigation example">
-                <ul class="pagination justify-content-center">
-                    <@ if @{ ?page | def(1) } = 1 @>
-                        <li class="page-item disabled">
-                            <a class="page-link" href="#" tabindex="-1">Previous</a>
-                        </li>
-                    <@ else @>
-                        <li class="page-item">
-                            <a class="page-link" href="?<@ queryStringMerge { page: @{ ?page | def(1) | -1}  } @>" tabindex="-1">Previous</a>
-                        </li>
-                    <@ end @>
-
-                    <@ for 1 to @{ :paginationCount } @>
-                        <@ if @{ ?page | def(1) } = @{ :i } @>
-                            <li class="page-item active">
-                                <span class="page-link">@{ :i }<span class="sr-only">(current)</span></span>
-                            </li>
-                        <@ else @>
-                            <li class="page-item">
-                                <a class="page-link" href="?<@ queryStringMerge { page: @{ :i } } @>">@{ :i }</a>
-                            </li>
-                        <@ end @>
-
-                    <@ end @>
-
-                    <@ if @{ ?page | def(1) } = @{ :paginationCount } @>
-                        <li class="page-item disabled">
-                            <a class="page-link" href="#">Next</a>
-                        </li>
-                    <@ else @>
-                        <li class="page-item">
-                            <a class="page-link" href="?<@ queryStringMerge { page: @{ ?page | def(1) | +1}  } @>">Next</a>
-                        </li>
-                    <@ end @>
-                </ul>
-            </nav>
+    <@~ with "/articles" @>
+        <@~ foreach in pagelist @>
+            <@ snippets/article.php @>
         <@~ end @>
+
+        <nav aria-label="Page navigation example">
+            <ul class="pagination justify-content-center">
+                <@ if @{ ?page | def(1) } = 1 @>
+                    <li class="page-item disabled">
+                        <a class="page-link" href="#" tabindex="-1">Previous</a>
+                    </li>
+                <@ else @>
+                    <li class="page-item">
+                        <a class="page-link" href="?<@ queryStringMerge { page: @{ ?page | def(1) | -1}  } @>" tabindex="-1">Previous</a>
+                    </li>
+                <@ end @>
+
+                <@ for 1 to @{ :paginationCount } @>
+                    <@ if @{ ?page | def(1) } = @{ :i } @>
+                        <li class="page-item active">
+                            <span class="page-link">@{ :i }<span class="sr-only">(current)</span></span>
+                        </li>
+                    <@ else @>
+                        <li class="page-item">
+                            <a class="page-link" href="?<@ queryStringMerge { page: @{ :i } } @>">@{ :i }</a>
+                        </li>
+                    <@ end @>
+
+                <@ end @>
+
+                <@ if @{ ?page | def(1) } = @{ :paginationCount } @>
+                    <li class="page-item disabled">
+                        <a class="page-link" href="#">Next</a>
+                    </li>
+                <@ else @>
+                    <li class="page-item">
+                        <a class="page-link" href="?<@ queryStringMerge { page: @{ ?page | def(1) | +1}  } @>">Next</a>
+                    </li>
+                <@ end @>
+            </ul>
+        </nav>
+    <@~ end @>
 
 
     <@ snippets/javascript.php @>

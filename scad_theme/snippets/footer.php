@@ -2,9 +2,13 @@
 
 </div>
 
-<footer class="container-fluid">
-	<hr>
-	<div id="get_involved" class="row text-center">
+<footer class="container-fluid text-center">
+	<div class="row">
+		<div class="col">
+			<hr />
+		</div>
+	</div>
+	<div id="get_involved" class="row">
 		<div class="col">
 			<h2>Information for Clinicians</h2>
 			<p><span class="d-none d-md-block">We also have a leaflet intended for clinicians - to explain SCAD, this website, and the research projects we are involved with. </span><a target="_blank" href="/shared/scad-clinician-a5-leaflet.pdf">Download it here</a></p>
@@ -23,8 +27,8 @@
 			<p><scan class="d-none d-md-block">The British Heart Foundation have also produced a useful </scan><a target="_blank" href="https://www.bhf.org.uk/what-we-do/news-from-the-bhf/news-archive/2016/february/scad-disease-causing-heart-attacks-in-women">information sheet on SCAD</a></p>
 		</div>
 	</div>
-	<div id="ident">
-		<p id="copyright">Copyright &copy; @{ :now | dateFormat('Y') } NIHR Leicester Biomedical Research Centre</p>
+	<div id="ident" class="row">
+		<p id="copyright" class="col">Copyright &copy; @{ :now | dateFormat('Y') } NIHR Leicester Biomedical Research Centre</p>
 	</div>
 </footer>
 

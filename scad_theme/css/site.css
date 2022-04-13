@@ -16,11 +16,6 @@ a:hover {
     color: #BD081C;
 }
 
-.container-fluid {
-    padding-left: 0;
-    padding-right: 0;
-}
-
 .carousel-inner {
     max-height: 350px;
     min-height: 350px;
@@ -66,7 +61,6 @@ a:hover {
     border-top: 5px solid #F96B61;
     padding: 40px 0 20px;
     color: #FFFFFF;
-    margin: 0;
 }
 
 #homepage_subheader h3 {

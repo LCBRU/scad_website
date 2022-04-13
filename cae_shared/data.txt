@@ -1,0 +1,7 @@
+sitename: CAE
+-
+theme: scad_theme
+-
+logo: '/packages/scad_theme/images/cae-logo.png'
+-
+text_footer:

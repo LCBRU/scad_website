@@ -48,7 +48,7 @@
     <@~ newPagelist { type: 'children' } ~@>
 
     <nav class="navbar navbar-expand-lg navbar-light bg-light row">
-      <a class="navbar-brand" href="/"><img src="/packages/scad_theme/images/scad-logo.png" alt="Home"></a>
+      <a class="navbar-brand" href="/"><img src=@{ logo } alt="Home"></a>
 
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>

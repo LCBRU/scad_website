@@ -15,7 +15,7 @@ Please remember that filling in this form DOES NOT mean you have commited to any
 </div>
 
 <form action="" method="post" class="container">
-  <input type="hidden" name="registration_type" value="survivor">
+  <input type="hidden" name="registration_type" value="scad_survivor">
   <div class="form-row justify-content-center">
     <div class="form-group required col-sm-4">
       <label for="first_name">First Name</label>

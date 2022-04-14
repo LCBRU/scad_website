@@ -22,7 +22,7 @@
             "From:" . sender_email(),
         );
     
-        header('Location: /get-involved/register/registered');
+        header('Location: /registered');
         die;
     }
 ?>

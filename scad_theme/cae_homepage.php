@@ -1,4 +1,5 @@
 <?php defined('AUTOMAD') or die('Direct access not permitted!');?>
+<@ snippets/registrate.php @>
 <@ snippets/header.php @>
 <@ snippets/message.php @>
 
@@ -148,7 +149,7 @@
         </div>
 
         <form action="" method="post" class="container">
-            <input type="hidden" name="registration_type" value="registrations">
+            <input type="hidden" name="registration_type" value="cae_registrations">
             <div class="form-row justify-content-center">
                 <div class="form-group required col-sm-4">
                     <label for="your_first_name">Your Name</label>
@@ -157,12 +158,6 @@
                 <div class="form-group col-sm-4 offset-sm-1">
                     <label for="your_last_name">Your Last Name</label>
                     <input type="text" class="form-control" id="your_last_name" name="your_last_name" placeholder="Your Last Name">
-                </div>
-            </div>
-            <div class="form-row justify-content-center">
-                <div class="form-group required col-sm-9">
-                    <label for="relationship">Your relationship to the person who has suffered from SCAD</label>
-                    <input type="text" class="form-control" id="relationship" name="relationship" placeholder="Your relationship to SCAD sufferer" required>
                 </div>
             </div>
             <div class="form-row justify-content-center">

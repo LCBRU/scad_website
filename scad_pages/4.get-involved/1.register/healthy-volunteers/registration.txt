@@ -19,7 +19,7 @@ survivor however you can register as a healthy volunteer.
 </div>
 
 <form action="" method="post" class="container">
-  <input type="hidden" name="registration_type" value="healthy_volunteer">
+  <input type="hidden" name="registration_type" value="scad_healthy_volunteer">
   <div class="form-row justify-content-center">
     <div class="form-group required col-sm-4">
       <label for="your_first_name">Your Name</label>

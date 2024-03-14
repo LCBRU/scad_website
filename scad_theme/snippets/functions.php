@@ -3,7 +3,7 @@
 function base_url(){
   return sprintf(
       "%s://%s%s",
-      isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] != 'off' ? 'https' : 'http',
+      'https',
       $_SERVER['SERVER_NAME'],
       rtrim($_SERVER['REQUEST_URI'], '/')
   );

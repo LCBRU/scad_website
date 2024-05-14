@@ -16,6 +16,7 @@ At present we are not doing any specific studies relating to family members and 
 
 <form action="" method="post" class="container">
   <input type="hidden" name="registration_type" value="scad_family_and_relatives">
+  <input type="hidden" name="registration_date" value="">
   <div class="form-row justify-content-center">
     <div class="form-group required col-sm-4">
       <label for="your_first_name">Your Name</label>

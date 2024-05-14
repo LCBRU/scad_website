@@ -22,6 +22,9 @@
     if (document.getElementsByName("submit").length > 0) {
         document.getElementsByName("submit")[0].setAttribute('disabled', 'disabled');
     }
+    if (document.getElementsByName("registration_date").length > 0) {
+        document.getElementsByName("registration_date")[0].value = new Date().toDateString();
+    }
 </script>
     
 <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>

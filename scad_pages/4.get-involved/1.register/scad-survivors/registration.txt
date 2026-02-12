@@ -6,7 +6,7 @@ date: 2022-03-31 10:05:33
 
 -
 
-text: If you have had a Spontaneous Coronary Artery Dissection, and you'd be interested in helping us with some of the research we are doing into this rare and little-understood condtion, we are very keen to hear from you. Please use this form to contact us and a member of our team will get back to you to answer any questions. **If you have previously registered and have further questions, please feel free to contact us directly via the SCAD mailbox <scad@uhl-tr.nhs.uk> rather than registering again.** If you would like to update your contact details please also feel free to email rather than re registering.
+text: If you have had a Spontaneous Coronary Artery Dissection, and you'd be interested in helping us with some of the research we are doing into this rare and little-understood condtion, we are very keen to hear from you. Please use this form to contact us and a member of our team will get back to you to answer any questions. **If you have previously registered and have further questions, please feel free to contact us directly via the SCAD mailbox <uhl-tr.scadmailbox@nhs.net> rather than registering again.** If you would like to update your contact details please also feel free to email rather than re registering.
 
 Please remember that filling in this form DOES NOT mean you have commited to any research projects - it is only to find out more information.
 
